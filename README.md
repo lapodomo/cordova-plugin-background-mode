@@ -1,3 +1,4 @@
+ALTERED VERSION TO SAVE ENERGY
 
 <p align="left">
     <b><a href="https://github.com/katzer/cordova-plugin-background-mode/tree/example">SAMPLE APP</a> :point_right:</b>
